@@ -1,6 +1,6 @@
 
 
-# 📈 AI Global Trading Platform
+#  AI Global Trading Platform
 
 An AI-powered stock market analysis platform that provides real-time stock data, technical analysis, machine learning-based price prediction, trading signals, portfolio tracking, and an intelligent stock assistant chatbot.
 
@@ -139,7 +139,7 @@ Learn concepts such as:
 
 
 
-## 📦 Required Libraries
+##  Required Libraries
 
 ```bash
 pip install streamlit
@@ -211,7 +211,7 @@ Metrics:
 
 ---
 
-## 📊 Trading Signal Logic
+##  Trading Signal Logic
 
 Signal Score is generated using:
 
@@ -234,7 +234,7 @@ Final Signals:
 
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * LSTM Deep Learning Model
 * Sentiment Analysis
@@ -261,7 +261,7 @@ Final Signals:
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is developed for educational and learning purposes only.
 
@@ -270,6 +270,3 @@ Stock market investments involve risk. AI predictions and trading signals genera
 Always conduct your own research before investing.
 
 ---
-
-⭐ If you like this project, don't forget to star the repository.
-# AI-Global-Trading-Platform
