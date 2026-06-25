@@ -1,4 +1,4 @@
-Based on your AI Share Market project code, here is a professional **README.md** you can directly paste into GitHub:
+
 
 # 📈 AI Global Trading Platform
 
