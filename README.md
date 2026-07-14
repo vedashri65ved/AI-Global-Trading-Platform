@@ -402,10 +402,3 @@ This project is intended for **educational and research purposes only**. Stock m
 
 ---
 
-#  Author
-
-**Rohini**
-
-AI • Machine Learning • Data Science • Financial Analytics
-
- **If you found this project useful, please consider giving it a Star on GitHub!**
