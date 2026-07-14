@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+keras
+yfinance
+textblob
+ta
+newsapi-python
+
+google-generativeai
+python-dotenv
