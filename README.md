@@ -35,7 +35,7 @@ The application supports:
 
 #  Features
 
-## 📡 Real-Time Market Data
+##  Real-Time Market Data
 
 * Live stock prices
 * Current price
